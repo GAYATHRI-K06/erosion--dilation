@@ -77,5 +77,3 @@ Thus the generated text image is eroded and dilated using python and OpenCV.
 
 
 
-## Result
-Thus the generated text image is eroded and dilated using python and OpenCV.
